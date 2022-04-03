@@ -1,0 +1,5 @@
+D:\GitExtension\csharp_training\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.csproj.AssemblyReference.cache
+D:\GitExtension\csharp_training\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitExtension\csharp_training\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.AssemblyInfoInputs.cache
+D:\GitExtension\csharp_training\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.AssemblyInfo.cs
+D:\GitExtension\csharp_training\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.csproj.CoreCompileInputs.cache
